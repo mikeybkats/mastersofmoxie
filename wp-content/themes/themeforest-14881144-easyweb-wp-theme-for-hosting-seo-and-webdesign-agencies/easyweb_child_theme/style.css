@@ -40,6 +40,11 @@ ul .services_list li {
   padding: 60px 0px;
 }
 
+.coaching_svg {
+    max-width: 40%;
+    margin-left: 15%;
+}
+
 @media only screen and (max-width: 960px){
 
   img-logo-w1 {
