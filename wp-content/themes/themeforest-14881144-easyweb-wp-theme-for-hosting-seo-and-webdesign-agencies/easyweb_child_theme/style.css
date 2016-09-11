@@ -11,3 +11,63 @@
 
 /* Theme customization starts here
 -------------------------------------------------------------- */
+.logo-wrap .logo img {
+    max-height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    width: 340px !important;
+}
+
+.section-subheading {
+  text-align: center;
+}
+
+ul .services_list {
+    columns: 2;
+    margin-left: 15%;
+}
+
+
+ul .services_list li {
+  max-width: 80%;
+}
+
+.list_services {
+  background: #fafafa;
+  padding: 60px 0px;
+}
+
+@media only screen and (max-width: 960px){
+
+  img-logo-w1 {
+      max-height: 48px;
+      width: auto !important;
+      max-width: 340px;
+      margin: auto 0;
+  }
+
+  #header.sm-rgt-mn .logo-wrap .logo img {
+      max-height: 48px;
+      width: auto !important;
+      max-width: 340px;
+      margin: auto 0;
+  }
+
+}
+
+@media only screen and (max-width: 700px){
+
+
+ul .services_list {
+    columns: 1;
+    margin-left: 6%;
+  }
+
+
+ul .services_list li {
+  max-width: 70%;
+  }
+}
