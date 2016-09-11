@@ -1,0 +1,11 @@
+
+1. Download and install Autoptimize Plugin
+	A) Please go to settings > autoptimize
+	B) Make sure only "CSS Options" is checked.
+
+2. Download and install Optimus Plugin
+	A) Go to Tools > Optimize all images and click on optimize all images button
+
+3. Download and install W3 Total Cache
+	A) Go to performance > general settings
+	B) At the end of this page you'll find "Import / Export Settings" section which you can import "w3-total-cache.php" file. The mentioned file is available via Package Content Folder > IncreasePageSpeed
